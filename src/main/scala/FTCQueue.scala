@@ -1,4 +1,4 @@
-// From http://okmij.org/ftp/Haskell/extensible/FTCQueue1.hs
+// Adapted From http://okmij.org/ftp/Haskell/extensible/FTCQueue1.hs
 
 /*
 data FTCQueue m a b where
